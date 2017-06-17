@@ -1,0 +1,182 @@
+﻿### Arthropoid 1
+ART1 = {	
+	### SHIPS
+	#Attack.On.Pika
+	ship_names = {
+		generic = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号"
+		}
+	
+		corvette = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号"
+		}
+		
+		destroyer = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "蜈蚣号" "瓢虫号" "螳螂号"  "跳蚤号" "工蜂号" "土元号"
+		}
+		
+		cruiser = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "寒蝉号" "飞蝗号" "蜻蜓号"
+		}
+		
+		battleship = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "千足百眼号战列舰" "黑寡妇号战列舰" "皇蛾号战列舰" "天牛号战列舰" "象甲号战列舰" "金龟子号战列舰" 
+		}
+		
+		science = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "龙虾号" "蜘蛛号" "瓷蟹号"
+		}
+		
+		colonizer = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "瓷蟹号" "龙虾号" "蜘蛛号"
+		}
+		
+		constructor = {
+			"三叶虫号" "胡蜂号" "竹节虫号" "大闸蟹号" "梭子蟹号" "椰子蟹号" "寄居蟹号" "瓷蟹号" "花蟹号" "毒蚊号" "飞蝇号" "瓷蟹号" "龙虾号" "蜘蛛号"
+		}
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		outpost_station = {
+			#sequential_name = "第%C%前哨站"
+		}
+		outpost_station = {
+		}
+	
+		military_station_small = {
+			}
+		military_station_medium = {
+			}
+		military_station_large = {
+			}	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"小黄家蚁舰队" "粗角猛蚁舰队" "大头蚁舰队" "白蚁舰队" "猛蚁舰队" "伪切叶蚁舰队" "臭蚁舰队" "黑蚁舰队" "红蚁舰队" "行军蚁舰队" "蜜蚁舰队" "切叶蚁舰队" 
+		}
+		sequential_name = " %O% 虫群舰队"
+	}
+
+
+	###ARMIES
+	army_names = {
+	
+		defense_army = {
+			sequential_name = " %O% 防御虫群"
+		}
+			
+		assault_army = {
+			sequential_name = " %O% 突击虫群"
+		}
+		
+		slave_army = {
+			sequential_name = " %O% 奴隶虫群"
+		}
+		
+		clone_army = {
+			sequential_name = " %O% 克隆虫群"
+		}
+		
+		robotic_army = {
+			sequential_name = " %O% 机械虫群"
+		}
+		
+		android_army = {
+			sequential_name = " %O% 机器人虫群"
+		}
+		
+		psionic_army = {
+			sequential_name = " %O% 灵能虫群"
+		}
+		
+		xenomorph_army = {
+			sequential_name = " %O% 异形虫群"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = " %O% 改造人虫群"
+		}
+	}
+	
+	### PLANETS
+	#AOpika
+	planet_names = {
+	
+		generic = {
+			names = {
+				特瓦坎星 托尔克星 特兰星 蒂尔星 帕伦克星 科潘 奇琴伊察 波南帕克星 科巴星 基里瓜星
+				大伞星 白伞星 无趾星 三斑趾星 黄襟星 红肩美星 黑美星 宽带美星 台湾美星 马哈美星 达摩翠星 金星 统帅青星
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+	
+	### CHARACTERS
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				桑度 佛里希 司柏德 艾德 毕 英瑟 弗莱 爱拓柏斯 桑特比 库尔奈特 卡尔马 尤博 潘诺尼 优芙洛西尼  蒂卡尔 帕伦克 卡拉克穆尔 科潘 奇琴伊察 波南帕克 科巴 基里瓜
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				康伯 康成 康德 康健 康乐 康宁 康平 康胜 康盛 康时 康适 康顺 康泰 康裕 乐邦 乐天 乐湛 立诚 良工 乐成 乐童 乐章 立果 良翰 乐池 乐贤 乐正 立人 良吉
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				英朗 英逸 永丰 永元 宇航 玉龙 元白 元龙 苑杰 向明 欣嘉 新知 兴国 兴学 星晖 修德 修文 学民 雅惠 阳成 
+			}
+			
+			regnal_first_names = {
+				卡尔马 尤博 潘诺尼 优芙洛西尼
+			}
+			
+			regnal_second_names = {
+				 母王 
+				
+			}
+		}
+	}
+}

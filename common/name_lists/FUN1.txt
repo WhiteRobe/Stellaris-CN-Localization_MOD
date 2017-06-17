@@ -1,0 +1,183 @@
+﻿### Fungoid 1
+FUN1 = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号" 
+		}
+
+		corvette = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		destroyer = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		cruiser = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		battleship = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		science = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		colonizer = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		constructor = {
+			"白毒伞号" "猴头菇号" "洋菇号" "金针菇号" "松露号" "银耳号" "草菇号" "羊肚菌号" "双孢菇号" "平菇" "凤尾菇号" "竹荪号" "牛肝菌号" "杏鲍菇号" "蟹味菇号" "油菇号" "桦树菇号" "榛蘑号" "亮菌号" "茯苓号" "石耳号" "灵芝号" "香菇号"  "木耳号"
+		}
+		
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			#random_names = { }
+			#sequential_name = " %O% 前线哨站"
+			#Attack.On.PIka
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		random_names = {
+			蘑菇舰队 香菇舰队 金针菇舰队 竹荪舰队 茶树舰队 菇姬舰队 松茸舰队 獐子菌舰队 银耳舰队 黑木耳舰队
+		}
+		sequential_name = " %O% 群星菌落"
+	}
+	
+	army_names = {
+	
+		defense_army = {
+			sequential_name = " %O% 防御菌落"
+		}
+			
+		assault_army = {
+			sequential_name = " %O% 突击菌落"
+		}
+		
+		slave_army = {
+			sequential_name = " %O% 奴隶菌落"
+		}
+		
+		clone_army = {
+			sequential_name = " %O% 克隆人菌落"
+		}
+		
+		robotic_army = {
+			sequential_name = " %O% 机械菌落"
+		}
+		
+		android_army = {
+			sequential_name = " %O% 机器人菌落"
+		}
+		
+		psionic_army = {
+			sequential_name = "灵能菌落之%R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = " %O% 异形菌落"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = " %O% 改造人菌落"
+		}
+	}
+
+
+	### PLANETS
+	#AOPIKA
+	planet_names = {
+
+		generic = {
+			names = {
+				鸡枞菌星 松茸菌星 猴头菇星 羊肚菌星 丁香菌星 红乳牛肝菌星 喇叭菌星 白乳牛肝星 美味牛肝星 雪山美味星 海鲜菇星 猪肚菌星 青杠菌星 小黄菌星 黄腊伞星 鹅蛋菌星 鸡油菌星 酵母菌星 阿斯兰的菌星 福利菌星 史丹利菌星
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				
+			}
+		}
+		
+		pc_arid = {
+			names = {
+				
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				丽莎 南希 海伦 桑德拉卡罗尔 露丝 沙龙 米歇尔 金佰利 黛博拉 阿米莉亚 夏洛特 伊莎贝拉  艾迪生 艾丽莎 阿比盖尔 朱莉娅 萨曼莎 布鲁克林 阿什利 娜塔莉 布赖恩
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				伊莱恩 卡拉 香农 苏茜  盖尔 安 凯瑟琳 蒂娜 嘉莉 米利暗 薇薇卡 塔玛拉 朱迪   希拉里 克莱尔 丹妮尔 泰瑞 杰基 凯利 邦妮   珍妮丝 布兰妮 斯蒂芬妮 娜塔莎
+			}
+			
+			regnal_first_names = {
+				辛西娅 科迪莉亚 达芙妮 迪安娜 丹妮丝 多洛雷斯 多琳  伊迪丝 埃德娜 埃利诺 爱琳 埃德温娜
+			}
+			
+			regnal_second_names = {
+				真菌
+			}
+		}
+	}
+}

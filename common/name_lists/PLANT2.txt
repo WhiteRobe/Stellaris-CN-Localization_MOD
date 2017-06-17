@@ -1,0 +1,190 @@
+﻿### Plantoid 1
+PLANT2 = {	
+	### SHIPS
+
+	ship_names = {
+	
+		generic = {
+			"叶片" "荆棘" "绒毛" "花蕾"
+		}
+	
+		corvette = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		science = {
+			"飘叶" "浮叶" "寻叶" "颤叶" "悬叶"
+		}
+		#Attack.On.Pika
+		colonizer = {
+			"花种" "果核"
+		}
+		
+		constructor = {
+			"分生组织"
+		}
+		
+		orbital_station = {
+			"枝干"
+		}
+		mining_station = {
+			"树根"
+		}
+		research_station = {
+			"灌木丛"
+		}
+		wormhole_station = { }
+		terraform_station = {
+			"温室"
+			"橘园"
+		}
+		observation_station = {
+			"藤蔓触角" "攀爬藤蔓" "藤蔓吸盘" "缠绕藤蔓" "初生藤蔓" "包络藤蔓" "寄生藤蔓"
+		}
+	
+		military_station_small = { "食人花-S" }
+	
+		military_station_medium = { "食人花-M" }
+	
+		military_station_large = { "食人花-L" }	
+	}
+	
+	fleet_names = {
+		random_names = {
+			"盛开的花冠" "繁荣的花冠" "不败的花冠" "旋转的花冠" "新兴的花冠"
+		}
+		sequential_name = " %O% 花瓣舰队"
+	}
+
+	### ARMIES
+	army_names = {
+		defense_army = {
+			sequential_name = " %O% 防护花环"
+		}
+			
+		assault_army = {
+			sequential_name = " %O% 丧葬花环"
+		}
+		
+		slave_army = {
+			sequential_name = " %O% 束缚花环"
+		}
+		
+		clone_army = { 
+			sequential_name = "抵御花环之%R%"
+		}
+		
+		robotic_army = {
+			sequential_name = "黄铜花环之%R%"
+		}
+		
+		android_army = {
+			sequential_name = "黄金花环之%R"
+		}
+		
+		psionic_army = { 
+			sequential_name = " %O% 橡木花环"
+		}
+		
+		xenomorph_army = {
+			sequential_name = " %O% 血肉花环"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = " %O% 转基因花环"
+		}
+	}
+
+		
+	
+	### PLANETS
+	
+	planet_names = {
+	
+		generic = {
+			names = {
+			}
+		}
+		
+		pc_desert = {
+			names = {
+				"仙人掌营地" "棕树绿洲"
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+				"云之森林" "亚马孙"
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+				"密林" "草原"
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+				"大堡礁" "珊瑚之家"
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+				"圣诞树" "苔藓平原"
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+				"常青树" "坚韧球"
+			}
+		}
+		
+	}
+	
+	### CHARACTERS
+	
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				"花瓣之"
+				"叶片之"
+				"花粉之"
+				"茎干之"
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				白 灰 黑 勃艮第 红 蓝 靛 青 黄 象牙白 乌木 紫褐 青绿 海蓝 宝石 卡其红 金 银 青铜 蜜露 薰衣草 栗色 橄榄绿
+			}
+
+			regnal_first_names = {
+				"树干之"
+			}
+			
+			regnal_second_names = {
+				风信子 紫罗兰 茉莉花 月季 杜鹃花 曼陀罗 桔梗 栀子花 桂花
+			}
+		}
+	}
+}

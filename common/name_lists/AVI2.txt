@@ -1,0 +1,185 @@
+﻿### Template 2
+AVI2 = {
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+
+		corvette = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		destroyer = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		cruiser = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		battleship = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		science = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		colonizer = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		constructor = {
+			大杜鹃号 灰雁号 翠鸟号 家燕号 绿头鸭号 灰鹤号 白鹳号 白颊黑雁号 大天鹅号 斑头雁号 丹顶鹤号 小嘴乌鸦号 原鸽号 白头海雕号 加拿大雁号 灰鹤号 苇莺号 知更鸟号 麻雀号 戴胜号 伯劳号 绣眼鸟号 大山雀号 绿背山雀号 金翅雀号 蓝翅号 白领凤号
+		}
+		
+		
+		orbital_station = { }
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		outpost_station = {
+			#random_names = {
+				
+			#}
+			#sequential_name = " %O% 前线哨站"
+		}
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	ship_class_names = {
+		generic = {
+			飞鸟 飞鹰 飞虫 飞萤 飞鹤 飞鱼
+		}		
+	}
+	#Attack.On.Pika 
+	fleet_names = {
+		random_names = {
+			苍鹰舰队 秃鹫舰队 海鸥舰队 猫头鹰鸽子舰队 文鸟舰队 珍珠鸟舰队 蜂鸟舰队 火烈鸟舰队 海鸥舰队 
+		}
+		sequential_name = " %O% 飞行舰队"
+	}
+	
+	army_names = {
+		defense_army = {
+			sequential_name = " %O% 防御纵队"
+		}
+			
+		assault_army = {
+			sequential_name = " %O% 突击纵队"
+		}
+		
+		slave_army = {
+			sequential_name = " %O% 奴隶纵队"
+		}
+		
+		clone_army = { 
+			sequential_name = " %O% 克隆人纵队"
+		}
+		
+		robotic_army = {
+			sequential_name = " %O% 机械纵队"
+		}
+		
+		android_army = {
+			sequential_name = " %O% 机器人纵队"
+		}
+		
+		psionic_army = { 
+			sequential_name = "灵能纵队之%R%"
+		}
+		
+		xenomorph_army = {
+			sequential_name = " %O% 异形纵队"
+		}
+		
+		gene_warrior_army = {
+			sequential_name = " %O% 改造人纵队"
+		}
+	}
+		
+
+	### PLANETS
+
+	planet_names = {
+
+		generic = {
+			names = {
+				娜塔莉星 布赖恩星 克洛伊星 黑利星 莉莲星 朱迪思星 艾莉森星 阿曼达星 安吉拉星 奥黛丽星 比阿特丽斯星 布伦达星 骡子卡特星 度搜我星 水动力星 卡里斯星 波特曼星 思东被星 旅顺口星 力士乐星 弗莱星 皮特星 毛利星 新意星 小兰星 福源星 灰原星
+			}
+		}
+		
+		pc_desert = {
+			names = {
+			}
+		}
+		
+		pc_tropical = {
+			names = {
+			}
+		}
+		
+		pc_arid = {
+			names = {
+			}
+		}
+		
+		pc_continental = {
+			names = {
+			}
+		}
+		
+		pc_ocean = {
+			names = {
+			}
+		}
+		
+		pc_tundra = {
+			names = {
+			}
+		}
+		
+		pc_arctic = {
+			names = {
+			}
+		}
+		
+	}
+
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			# A complete name
+			full_names = {
+				
+			}
+			
+			# Always combined with a second name
+			first_names = {
+				玛蒂尔达 艾琳 露西 格雷斯 伊夫林  哈丽特 凯特琳 茉莉 麦迪逊 凯特 埃莉诺 亚历山
+			}
+			
+			# Always combined with a first name
+			second_names = {
+				德拉 莎拉 玛莎 伯大尼 丽贝卡 维多利亚 加布里埃 内奥米 劳伦 克拉拉 劳拉 凯拉 妮可
+			}
+			
+			regnal_first_names = {
+				奥利维亚 艾米丽 索菲 杰西卡 爱丽丝 思嘉 艾玛  夏娃 菲比  安娜 玛丽 梅根 伊丽莎白 艾米 达西
+			}
+			
+			regnal_second_names = {
+				白羽
+			}
+		}
+	}
+}

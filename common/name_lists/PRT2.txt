@@ -1,0 +1,101 @@
+﻿### Pirates
+PRT2 = {
+	selectable = { always = no }
+	randomized = no
+	
+	### PLANETS
+
+	trigger = {
+		is_pirate = yes
+	}
+
+	ship_names = {
+		generic = {
+			"黄金梅里号" "金鹿号" "绝望号" "前进吧先辈路飞号" "奎达夫商人号" "皇家幸福号" "冒险者号" "虎鲨号" "复仇女王号" "查尔斯二世号" "死亡医生号" "罗宾汉号" "巨人号" "逍遥号" "青帮号" "共和号" "德玛西亚号" "机遇号" "风暴之神号" "咆哮号" "冬日号"
+		}
+		
+		corvette = {
+		}
+		
+		constructor = {
+		}
+		
+		colonizer = {
+		}
+		
+		science = {
+		}
+		
+		destroyer = {
+		}
+		
+		cruiser = {
+		}
+		
+		battleship = {
+		}
+		
+		mining_station = { 
+			"海盗矿场"
+		}
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+		
+		transport = {
+			"海盗摇篮"
+		}
+		
+		military_station_small = {
+			"黑暗巢穴" "安全港" "奴隶市场" "绝望港口"
+		}
+
+		military_station_medium = {
+			"黑暗巢穴" "安全港" "奴隶市场" "绝望港口"
+		}
+
+		military_station_large = {
+			"黑暗巢穴" "安全港" "奴隶市场" "绝望港口"
+		}
+		
+		pirate_station = {
+			"黑暗巢穴" "安全港" "奴隶市场" "绝望港口"
+		}
+	}
+
+	fleet_names = {
+		random_names = {
+			"人民舰队" "黑色守卫" "死亡雇佣军" "碎骨者" "淘金者" "头骨部落" "红发海盗" "血旅" "血旅" "星际奇兵" "掠夺者" "遗忘舰队" "虚空巨蛇"
+			"幽灵舰队"  "红色队长" "丧葬队" 
+		}
+	}
+
+	planet_names = {
+	}
+
+	#Attack.On.Pika
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			full_names = {
+				威廉·丹彼尔 德雷克 蒙奇·D·路飞 海拉金 卡特琳娜 托马斯·图 亨利·埃夫里  基德 亨利·摩根 棉布杰克 黑萨姆 本杰明·霍尼戈 爱德华·蒂奇 塞亨马缪尔·罗伯茨 弗朗西斯·德雷克
+			}
+			
+			#full_names_male = { 
+			#	"The Baron" "Butcher King" "His Lordship" "Emperor of the Universe" "Crazy Helmsman" "Emperor Four-Eyes VII"
+			#}
+			#
+			#full_names_female
+			#	"The Midwife" "Blood Queen"
+			#}
+
+			first_names = {
+			}
+			
+			second_names = {
+			}
+		}
+	}
+}

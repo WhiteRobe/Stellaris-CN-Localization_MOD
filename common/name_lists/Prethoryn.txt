@@ -1,0 +1,72 @@
+﻿### Prethoryn Scourge
+Prethoryn = {
+	selectable = { always = no }
+	randomized = no
+	
+	### SHIPS
+
+	ship_names = {
+
+		generic = {
+			"游动孢子"
+		}
+	
+		small_ship_swarm = {
+			"游动孢子"
+		}
+		
+		large_ship_swarm = {
+			"孢子战士"
+		}
+		
+		large_ship_carrier_swarm = {
+			"孢子母体"
+		}
+		
+		queen_swarm = {
+			"暗眼"  "黄金" "怒天使" 莎拉·凯瑞甘 凯莉根
+			
+		}
+		
+		colony_ship_swarm = {
+			"寄生孢子"
+		}
+		
+		mining_station = { }
+		research_station = { }
+		wormhole_station = { }
+		terraform_station = { }
+		observation_station = { }
+
+		military_station_small = {}
+		military_station_medium = {}
+		military_station_large = {}	
+	}
+
+	fleet_names = {
+		sequential_name = " %O% 星际母巢"
+	}
+	#Attack.On.Pika
+	### CHARACTERS
+
+	character_names = {
+		default = {
+			full_names = {
+				"完全体'Hunter'" "完全体'Stalker'" "完全体'Devourer'" "完全体'Slayer'" 
+				"完全体'Destroyer'" "完全体'Executioner'" "完全体'Reaper'" "完全体'Slaughterer'" 
+				"完全体'Howler'" "完全体'Prowler'" "完全体'Killer'" "完全体'Mauler'"
+				"完全体'Seeker'" "完全体'Butcher'" "完全体'Corrupter'" "完全体'Screamer'" 
+				"完全体'Stinger'" "完全体'Thresher'" "完全体'Strider'" "完全体'Singer'" 
+				"完全体'Silencer'" "完全体'Feeder'" "完全体'Striker'" "完全体'Smiter'"
+				"完全体'Watcher'" "完全体'Observer'" "完全体'Chaser'" "完全体'Vanquisher'" 
+				"完全体'Crusher'" "完全体'Eater'" "完全体'Invader'" "完全体'Interloper'" 
+				"完全体'Intruder'" "完全体'Trespasser'" "完全体'Encroacher'" "完全体'Ravager'" 
+				"完全体'Gnawer'" "完全体'Ruiner'" "完全体'Wrecker'" "完全体'Despoiler'" 
+				"完全体'Pillager'" "完全体'Tainter'" "完全体'Depriver'" "完全体'Reaver'" 
+				"完全体'Berserker'" "完全体'Punisher'" "完全体'Scourer'" "完全体'Cleanser'" 
+				"完全体'Shatterer'" "完全体'Tormenter'" "完全体'Terrorizer'"
+			}
+			
+		}
+	}
+}
